@@ -1,0 +1,10 @@
+fox
+dog
+cat
+book
+sky
+root
+portrait
+flags
+person
+fire
